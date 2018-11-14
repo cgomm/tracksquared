@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Track²</string>
+    <string name="joining">Einsteigen</string>
+    <string name="leaving">Aussteigen</string>
 </resources>
